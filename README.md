@@ -33,8 +33,8 @@
 
 		<div id="contactDetails" class="quickFade delayFour">
 			<ul>
-				<li>Email: <a href="mailto:moh.almusawa@gmail.com target="_blank">moh.almusawa@gmail.com</a></li>
-        <li>Email: <a href="malmusawa@skyunwired.com target="_blank">malmusawa@skyunwired.com</a></li>
+				<li>Email: <a href="mailto:moh.almusawa@gmail.com">moh.almusawa@gmail.com</a></li>
+        <li>Email: <a href="malmusawa@skyunwired.com">malmusawa@skyunwired.com</a></li>
 				<li>w: <a href="http://www.bloggs.com">www.bloggs.com</a></li>
 				<li>mobile: (UK) +447719018524</li>
         <li>mobile: (SAUDI) +9665053632264</li>
